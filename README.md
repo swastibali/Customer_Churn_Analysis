@@ -15,8 +15,11 @@ Logistic Regression
 Random Forest Classifier  
 Gradient-Boosted Trees (GBT) Classifier  
 All models were implemented using a unified pipeline for streamlined training and evaluation.  
+
 🎯 Parameter Tuning: Leveraged ParamGridBuilder and CrossValidator for hyperparameter optimization.  
-📊 Performance Metrics: Evaluated models using F1-score, accuracy, and other classification metrics to ensure robust predictions.  
+
+📊 Performance Metrics: Evaluated models using F1-score, accuracy, and other classification metrics to ensure robust predictions. 
+
 📈 Interactive Dashboard: Designed a dynamic dashboard to visualize customer churn trends, model predictions, and feature importance.  
 
 💻 Tools and Technologies
